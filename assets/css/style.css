@@ -1,0 +1,41 @@
+.cbd-wrapper {
+	width: 100%;
+	float: none;
+	clear: both;
+}
+
+.cbd-row {
+	width: 100%;
+	padding: 5px 0;
+}
+
+.cbd-cell {
+	width: 100%;
+}
+
+.cbd-cell label {
+	display: block;
+	width: 100%;
+	margin-bottom: 5px;
+}
+
+.cbd-cell input {
+	display: inline-block;
+}
+
+.cbd-cell p {
+	padding: 0;
+	margin: 0;
+}
+
+.cbd-cell p span {
+	font-weight: bold;
+}
+
+.cbd-hide {
+	display: none;
+}
+
+.cbd-wrapper .cbd-copyright {
+	font-size: 12px;
+}
